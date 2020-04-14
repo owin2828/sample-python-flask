@@ -1,0 +1,13 @@
+# Flask Framework
+Flask==1.1.1
+
+# Flask Packages
+flask-restplus==0.13.0
+
+# Redis Packages
+redis==3.4.1
+
+# Automated tests
+pytest==5.3.5
+
+Werkzeug==0.16.1

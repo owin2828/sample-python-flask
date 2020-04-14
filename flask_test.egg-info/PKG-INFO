@@ -1,0 +1,13 @@
+Metadata-Version: 1.1
+Name: flask-test
+Version: 0.0.1
+Summary: python flask sample package
+Home-page: http://10.217.66.21/devops/newdeal-python-flask-sample
+Author: sw_architecture
+Author-email: seungjoon.oh@kt.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
